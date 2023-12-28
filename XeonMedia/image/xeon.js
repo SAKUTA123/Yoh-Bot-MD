@@ -1,0 +1,3 @@
+{
+	"name": "© Gima Bot"
+}
